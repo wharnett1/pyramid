@@ -1,7 +1,7 @@
-# Disclaimer: I am not a medical professional. I am only trying to consolidate information from high quality trusted sources. Follow the advice of your doctor.
-
 # pyramid
 This is a prototype for pyramid, a health prioritization app
+
+Disclaimer: I am not a medical professional. The goal of this project is not to provide medical advice, but to consolidate information from trusted doctors, scientists, and health professionals.
 
 ## Thesis:
 The current state of social media and the internet has lead to widespread health misinformation and fearmongering. One of the ways this manifests is an overprioritization of highly specific, low-evidence, low-impact changes that influencers claim are necessary for everyone, while the average person doesn't have the basics down.
@@ -27,7 +27,7 @@ v1.0 - Early prototyping + database, beginning to develop survey system / fronte
 - Weight tracking
 
 
-- mobile version for full app experience. web demo first? 
+- mobile version for full app experience. web demo first?
 
 
 
